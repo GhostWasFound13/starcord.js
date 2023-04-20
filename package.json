@@ -1,0 +1,29 @@
+{
+"type": "module",
+  "dependencies": {
+    "@discordjs/opus": "^0.8.0",
+    "axios": "^0.27.2",
+    "better-sqlite3": "^7.6.2",
+    "consola": "^2.15.3",
+    "discord-music-player": "^9.1.1",
+    "discord.js": "^14.3.0",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.1.0",
+    "glob": "^8.0.3",
+    "isomorphic-unfetch": "^3.1.0",
+    "module": "^1.2.5",
+    "path": "^0.12.7",
+    "quick.db": "^9.0.6",
+    "url": "^0.11.0"
+  },
+  "name": "starcord.js",
+  "version": "0.0.3",
+  "description": "Simplification for Discord.js which is not a constructor by type aoi.js(dsm-14 fork)",
+  "main": "index.js",
+  "types": "./typings.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manul",
+  "license": "ISC"
+}
